@@ -57,14 +57,14 @@ Monte Carlo simulation was chosen for its ability to model uncertainty by genera
     
 
 #### Results
-![image](https://github.com/user-attachments/assets/049a4d5a-71f0-4df7-b17c-abc39ead2679)
+![image](https://github.com/user-attachments/assets/655d01b5-cd9f-4f0a-bdc8-94dcc722618e)
 
 In Table format:
 | Scenarios                  | 2025 | 2030 | 2035 | 2040 |
 | -------------------------- | ---- | ---- | ---- | ---- |
-| Optimistic (10th centile)  | \-2% | 2%   | 25%  | 88%  |
-| Neutral (average)          | 9%   | 80%  | 184% | 324% |
-| Pessimistic (90th centile) | 20%  | 175% | 375% | 573% |
+| Optimistic (10th centile)  | 0% | \-2%   | \-4%  | \-7%  |
+| Neutral (average)          | 8%   | 56%  | 100% | 128% |
+| Pessimistic (90th centile) | 17%  | 114% | 205% | 264% |
 
 The model’s output can provide scenario-driven insights (optimistic, neutral, pessimistic) that enable stakeholders to:
 
