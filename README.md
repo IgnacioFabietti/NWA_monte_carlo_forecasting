@@ -51,7 +51,7 @@ Monte Carlo simulation was chosen for its ability to model uncertainty by genera
     
 -   **Exclusions:** Covid-19 years excluded to avoid skewing trends.
     
--   **Simulation Process:** Growth rates for attendance were randomly sampled from historical data (mean and standard deviation) and used to simulate 1,000 different potential future scenarios.
+-   **Simulation Process:** Growth rates for attendance were randomly sampled from historical data (mean and standard deviation) and used to simulate 10,000 different potential future scenarios.
     
 -   **Population Growth:** Attendance projections were adjusted based on forecasted population growth, applying a logarithmic function to mimic saturation.
     
